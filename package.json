@@ -1,0 +1,22 @@
+{
+  "name": "graphql generated docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepmerge": "^4.2.2",
+    "fs-extra": "^10.0.0",
+    "glob": "^7.1.7",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^7.0.5",
+    "json-to-pretty-yaml": "^1.2.2",
+    "mkdirp": "^1.0.4",
+    "node-fetch": "^2.6.1"
+  }
+}
